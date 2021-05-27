@@ -209,6 +209,9 @@ textarea{
         flex-direction: column;
         
     }
+    #text{
+        margin-top: 25%;
+    }
     #left{
         padding: 30% 5%;
         width: 100%;
